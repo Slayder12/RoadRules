@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RoadRules</string>
+    <string name="rules_text">"\n 1. Соблюдайте скоростной режим.\n 2. Пристегивайтесь ремнями безопасности.\n 3. Не используйте телефон за рулем.\n 4. Уступайте дорогу пешеходам.\n 5. Соблюдайте знаки дорожного движения.\n"</string>
+    <string name="road_rules">Правила дорожного движения</string>
+    <string name="info_text">Информация</string>
+</resources>
